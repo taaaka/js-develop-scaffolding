@@ -1,0 +1,19 @@
+{
+  "name": "js-webpack-scaffolding",
+  "version": "1.0.0",
+  "description": "webpackでなんか作るときのベース",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taaaka/js-webpack-scaffolding.git"
+  },
+  "author": "taaaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taaaka/js-webpack-scaffolding/issues"
+  },
+  "homepage": "https://github.com/taaaka/js-webpack-scaffolding#readme"
+}
