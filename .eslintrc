@@ -1,13 +1,24 @@
 {
   "env": {
     "es6": true,
-    "browser": true
+    "browser": true,
+    "node": true
   },
   "extends": [
     "eslint:recommended",
-    "plugin:prettier/recommended"
+    "prettier"
+  ],
+  "plugins": [
+    "prettier"
   ],
   "rules": {
-
+    "prettier/prettier": [
+      2,
+      {
+        "singleQuote": true,
+        "semi": true,
+        "tabWidth": 2
+      }
+    ]
   }
 }
