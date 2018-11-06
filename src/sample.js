@@ -7,10 +7,6 @@ function greet(message) {
 }
 
 console.log('hoge');
-
-console.warn('precommit hooks test')
-
-
-
+console.warn('precommit hooks test');
 
 module.exports = greet;
