@@ -6,7 +6,10 @@ function greet(message) {
   }
 }
 
-console.log('hoge');
+const name = 'abc';
+
+console.log(greet(name));
+
 console.warn('precommit hooks test');
 
 module.exports = greet;
