@@ -12,4 +12,6 @@ console.log(greet(name));
 
 console.warn('precommit hooks test');
 
+debugger;
+
 module.exports = greet;

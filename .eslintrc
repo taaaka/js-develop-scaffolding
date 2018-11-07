@@ -4,13 +4,8 @@
     "browser": true,
     "node": true
   },
-  "extends": [
-    "eslint:recommended",
-    "prettier"
-  ],
-  "plugins": [
-    "prettier"
-  ],
+  "extends": ["eslint:recommended", "prettier"],
+  "plugins": ["prettier"],
   "rules": {
     "prettier/prettier": [
       2,
@@ -26,6 +21,8 @@
     ],
 
     "no-console": "warn",
-    "prefer-const": "error"
+    "prefer-const": "error",
+    "no-debugger": "warn",
+    "comma-dangle": ["error", "never"]
   }
 }
