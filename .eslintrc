@@ -8,15 +8,10 @@
   "plugins": ["prettier"],
   "rules": {
     "prettier/prettier": [
-      2,
+      "error",
+      {},
       {
-        "singleQuote": true,
-        "semi": true,
-        "tabWidth": 2,
-        "printWidth": 120,
-        "trailingComma": "es5",
-        "bracketSpacing": false,
-        "arrowParens": "always"
+        "usePrettierrc": true
       }
     ],
 
