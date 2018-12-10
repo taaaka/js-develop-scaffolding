@@ -1,6 +1,6 @@
-# js-webpack-scaffolding
+# js-develop-scaffolding
 
-webpackでなんか作るときのベース
+なんか作るときのベース
 
 **【含めているもの】** 
 

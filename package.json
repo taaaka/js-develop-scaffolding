@@ -1,7 +1,7 @@
 {
-  "name": "js-webpack-scaffolding",
+  "name": "js-develop-scaffolding",
   "version": "1.0.0",
-  "description": "webpackでなんか作るときのベース",
+  "description": "なんか作るときのベース",
   "main": "index.js",
   "scripts": {
     "precommit": "lint-staged",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taaaka/js-webpack-scaffolding.git"
+    "url": "git+https://github.com/taaaka/js-develop-scaffolding.git"
   },
   "author": "taaaka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/taaaka/js-webpack-scaffolding/issues"
+    "url": "https://github.com/taaaka/js-develop-scaffolding/issues"
   },
-  "homepage": "https://github.com/taaaka/js-webpack-scaffolding#readme",
+  "homepage": "https://github.com/taaaka/js-develop-scaffolding#readme",
   "devDependencies": {
     "eslint": "5.8.0",
     "eslint-config-prettier": "3.1.0",
